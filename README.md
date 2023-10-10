@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a product designer but sometimes dabble in the fun stuff too. CSS and SASS are my jam.
+I'm a product designer but sometimes dabble in the fun stuff too. SASS/CSS are my jam.
 <!--
 **michaelreynolds/michaelreynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
